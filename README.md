@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, I'm José Antonio</h1>
 <h3 align="center">soy un Frontend apasionado</h3>
 
-- 💬 Ask me about **HTML, CSS. JavaScriptt**
+- 💬 Ask me about **HTML, CSS, JavaScript**
 
 - 📫 How to reach me **joseantoniomzp@gmail.com**
 
