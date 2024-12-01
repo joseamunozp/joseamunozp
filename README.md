@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, I'm José Antonio</h1>
+<h1 align="center">Hola 👋, soy José Antonio</h1>
 <h3 align="center">soy un Frontend apasionado</h3>
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
